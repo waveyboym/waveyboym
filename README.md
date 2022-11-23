@@ -1,11 +1,13 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Hi there 👋, I'm Michael</h1>
 <h3 align="center">Software Engineer</h3>
 
 - 🔭 I’m currently working on **bug fixes and refactoring my code from my repositories**
 
 - 🌱 I’m currently learning **Compilers and Operating Systems**
 
-- 👨‍💻 All of my projects are available at [https://waveyboym.github.io/](https://waveyboym.github.io/)
+- 👨‍💻 Visit my portfolio at [https://waveyboym.github.io/](https://waveyboym.github.io/)
+
+- 📝 See my CV here [https://waveyboym.github.io/static/media/Michael_CV.5dd13cc251db5ec175c3.pdf](https://waveyboym.github.io/static/media/Michael_CV.5dd13cc251db5ec175c3.pdf)
 
 - 📫 How to reach me **u21546551@tuks.co.za**
 
