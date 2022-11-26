@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **bug fixes and refactoring my code from my repositories**
 
-- 🌱 I’m currently learning **Compilers and Operating Systems**
+- 🌱 I’m currently learning **Flutter and Dart**
 
-- 👨‍💻 Visit my portfolio at [https://waveyboym.github.io/](https://waveyboym.github.io/)
+- 👨‍💻 Visit my portfolio at **<a href="https://waveyboym.github.io/" target="_blank" rel="noreferrer">https://waveyboym.github.io/</a>**
 
-- 📝 See my CV here [https://waveyboym.github.io/static/media/Michael_CV.5dd13cc251db5ec175c3.pdf](https://waveyboym.github.io/static/media/Michael_CV.5dd13cc251db5ec175c3.pdf)
+- 📝 See my CV here **<a href="https://waveyboym.github.io/static/media/Michael_CV.5dd13cc251db5ec175c3.pdf" target="_blank" rel="noreferrer">https://waveyboym.github.io/static/media/Michael_CV.5dd13cc251db5ec175c3.pdf</a>**
 
 - 📫 How to reach me **u21546551@tuks.co.za**
 
