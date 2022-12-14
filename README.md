@@ -25,5 +25,5 @@
 <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=waveyboym&theme=github-dark&hide_border=true&border_radius=15&date_format=%5BY%20%5DM%20j&background=0a0c10&ring=BC5B5B&fire=DD6801&sideNums=FF0000&dates=BC5B5B&stroke=FF0000&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF" alt="waveyboym" />
  </p>
 <p align="center" width="100%">
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=waveyboym&bg_color=0a0c10&color=ffffff&line=bc5b5b&point=ff0000&area=true&hide_border=true" />
+<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=waveyboym&bg_color=0a0c10&color=ffffff&line=bc5b5b&point=ff0000&area=true&hide_border=true" />
 </p>
