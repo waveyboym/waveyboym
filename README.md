@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **bug fixes and refactoring my code from my repositories**
 
-- 🌱 I’m currently learning **Flutter and Dart**
+- 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 Visit my portfolio at **<a href="https://waveyboym.github.io/" target="_blank" rel="noreferrer">https://waveyboym.github.io/</a>**
 
