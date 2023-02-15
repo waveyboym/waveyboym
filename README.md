@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **bug fixes and refactoring my code from my repositories**
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">Rust</a>**
 
 - 👨‍💻 Visit my portfolio at **<a href="https://waveyboym.github.io/" target="_blank" rel="noreferrer">https://waveyboym.github.io/</a>**
 
