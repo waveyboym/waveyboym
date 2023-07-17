@@ -7,7 +7,7 @@
 
 - 👨‍💻 Visit my portfolio at **<a href="https://waveyboym.github.io/" target="_blank" rel="noreferrer">https://waveyboym.github.io/</a>**
 
-- 📝 See my CV here **<a href="https://waveyboym.github.io/assets/Michael_CV-0460f601.pdf" target="_blank" rel="noreferrer">My CV</a>**
+- 📝 See my CV here **<a href="https://waveyboym.github.io/assets/Michael_CV-1c2eb52a.pdf" target="_blank" rel="noreferrer">My CV</a>**
 
 - 📫 How to reach me **<a href="mailto:u21546551@tuks.co.za" target="_blank" rel="noreferrer">u21546551@tuks.co.za</a>**
 
