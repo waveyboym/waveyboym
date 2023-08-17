@@ -30,3 +30,5 @@
  </p>
  
 [![Michael's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=waveyboym&bg_color=0a0c10&color=ff0000&line=ffffff&point=bc5b5b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![Michael's 3d github contributions graph](./profile-3d-contrib/profile-night-rainbow.svg)
