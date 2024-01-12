@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Michael</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m currently working on **bug fixes and refactoring my code from my repositories**
+- 🔭 I’m currently working on **<a href="https://github.com/muzik-apps/muzik-offline" target="_blank" rel="noreferrer">muzik</a>**
 
 - 🌱 I’m currently learning **<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">Rust</a>**
 
