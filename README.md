@@ -20,7 +20,7 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,angular,atom,bash,blender,bootstrap,c,cs,cpp,cmake,codepen,css,dart,django,docker,electron,figma,firebase,flutter,git,github,go,gradle,html,idea,java,js,jquery,linux,md,materialui,maven,mongodb,mysql,netlify,nextjs,nginx,nodejs,php,postgres,powershell,py,react,redux,regex,rust,sass,supabase,tailwind,tauri,ts,unity,unreal,visualstudio,vite,vscode&perline=9" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,angular,atom,bash,blender,bootstrap,c,cs,cpp,cloudflare,cmake,codepen,css,cypress,dart,django,docker,electron,figma,firebase,flutter,git,github,githubactions,go,gradle,grafana,html,idea,java,js,jest,jquery,kafka,kali,latex,linux,md,materialui,matlab,maven,mongodb,mysql,netlify,nextjs,nginx,nodejs,php,postgres,powershell,prometheus,py,rabbitmq,react,redis,redux,regex,rust,sass,supabase,sentry,tailwind,tauri,ts,unity,unreal,vercel,visualstudio,vite,vitest,vscode&perline=9" />
   </a>
 </p>
 
