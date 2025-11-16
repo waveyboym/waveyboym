@@ -9,7 +9,7 @@
 
 - 📝 See my CV here **<a href="https://waveyboym.github.io/assets/Michael_CV-75a242ad.pdf" target="_blank" rel="noreferrer">My CV</a>**
 
-- 📫 How to reach me **<a href="mailto:u21546551@tuks.co.za" target="_blank" rel="noreferrer">u21546551@tuks.co.za</a>**
+- 📫 How to reach me **<a href="mailto:waveyboimc@gmail.com" target="_blank" rel="noreferrer">u21546551@tuks.co.za</a>**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
